@@ -8,6 +8,6 @@ for (let j = 0; j < 10; j++) {
   console.log(2 * j);
 }
 
-for (let m = 100; m > 0; m--) {
-  console.log('Time till explosion: ' + m);
+for (let num = 100; num > 0; num--) {
+  console.log('Time till explosion: ' + num);
 }
